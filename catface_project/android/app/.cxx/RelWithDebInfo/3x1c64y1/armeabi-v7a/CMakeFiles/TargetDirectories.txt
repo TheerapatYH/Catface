@@ -1,0 +1,2 @@
+D:/CE-KMITL/CATFACE/catface_project/android/app/.cxx/RelWithDebInfo/3x1c64y1/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/CE-KMITL/CATFACE/catface_project/android/app/.cxx/RelWithDebInfo/3x1c64y1/armeabi-v7a/CMakeFiles/rebuild_cache.dir

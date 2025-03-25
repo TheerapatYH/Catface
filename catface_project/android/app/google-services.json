@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009684567423",
+    "project_id": "catface-notify",
+    "storage_bucket": "catface-notify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009684567423:android:ca52866846190fa914b64a",
+        "android_client_info": {
+          "package_name": "com.example.catface_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlcZuOwWsifJuYm-bVnBukImR6YHrBln4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
